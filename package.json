@@ -1,0 +1,17 @@
+{
+  "name": "hazard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hazard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hazard.js"
+  },
+  "author": "Yossef Nassar",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-notifier": "^5.4.0",
+    "request": "^2.88.0"
+  }
+}
